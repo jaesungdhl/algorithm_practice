@@ -1,0 +1,11 @@
+{
+  "name": "npm_init_test",
+  "version": "1.0.0",
+  "description": "testing for configuring package json for a node application",
+  "main": "june_29_8kyu_configurePackageJsonForANodeApplication.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "jae sung lee",
+  "license": "ISC"
+}
